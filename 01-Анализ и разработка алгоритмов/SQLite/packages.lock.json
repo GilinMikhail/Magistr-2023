@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net6.0": {
+      "System.Data.SQLite.Core": {
+        "type": "Direct",
+        "requested": "[1.0.118, )",
+        "resolved": "1.0.118",
+        "contentHash": "2V1PsfBeqWlZxF/VtB8lQKPfDBayCU8zD5Xc3Mq7cILOa2ZqpPDSwMP0fTfk1gtGSStSk//DxKiGy6zwCQs7Uw==",
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "[1.0.118]"
+        }
+      },
+      "Stub.System.Data.SQLite.Core.NetStandard": {
+        "type": "Transitive",
+        "resolved": "1.0.118",
+        "contentHash": "4TS8IZvDj0ud6utxfXI6zv9Ditk4U9Kt9KqLyAIQGcU3GXp5oGBHgGZifq+APcqRCayuN/MSE8t9ZZmygtU28A=="
+      }
+    }
+  }
+}
