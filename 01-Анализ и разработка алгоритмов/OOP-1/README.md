@@ -1,1 +1,1 @@
-# Magistr-2023
+https://replit.com/@MikhailGilin/OOP-1
